@@ -7,7 +7,7 @@
 	<!--<![endif]-->
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<title>Log In &lsaquo; Tyca Strong 18th Birthday Bash &#8212; WordPress</title>
+	<title>Log In &lsaquo; Tyca Niquole &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
 <link rel='stylesheet' id='dashicons-css'  href='https://dmstrong.github.io/tycastrong/wp-includes/css/dashicons.min.css?ver=5.3.2' media='all' />
 <link rel='stylesheet' id='buttons-css'  href='https://dmstrong.github.io/tycastrong/wp-includes/css/buttons.min.css?ver=5.3.2' media='all' />
@@ -56,7 +56,7 @@
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog"><a href="https://dmstrong.github.io/tycastrong/">
-		&larr; Back to Tyca Strong 18th Birthday Bash		</a></p>
+		&larr; Back to Tyca Niquole		</a></p>
 			</div>
 	<script src='https://dmstrong.github.io/tycastrong/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
 <script src='https://dmstrong.github.io/tycastrong/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
