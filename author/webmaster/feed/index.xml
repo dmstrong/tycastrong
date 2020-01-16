@@ -10,7 +10,7 @@
 <channel>
 	<title>webmaster &#8211; Tyca Niquole</title>
 	<atom:link href="http://localhost/tycastrong_wp/author/webmaster/feed/" rel="self" type="application/rss+xml" />
-	<link>https://dmstrong.github.io/tycastrong</link>
+	<link>https://tycaniquole.com</link>
 	<description>18th Birthday Bash</description>
 	<lastBuildDate>Wed, 15 Jan 2020 06:18:44 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,18 +21,18 @@
 	<generator>https://wordpress.org/?v=5.3.2</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://dmstrong.github.io/tycastrong/2020/01/15/hello-world/</link>
-				<comments>https://dmstrong.github.io/tycastrong/2020/01/15/hello-world/#comments</comments>
+		<link>https://tycaniquole.com/2020/01/15/hello-world/</link>
+				<comments>https://tycaniquole.com/2020/01/15/hello-world/#comments</comments>
 				<pubDate>Wed, 15 Jan 2020 06:18:44 +0000</pubDate>
 		<dc:creator><![CDATA[webmaster]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">https://dmstrong.github.io/tycastrong/?p=1</guid>
+		<guid isPermaLink="false">https://tycaniquole.com/?p=1</guid>
 				<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 								<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
-							<wfw:commentRss>https://dmstrong.github.io/tycastrong/2020/01/15/hello-world/feed/</wfw:commentRss>
+							<wfw:commentRss>https://tycaniquole.com/2020/01/15/hello-world/feed/</wfw:commentRss>
 		<slash:comments>1</slash:comments>
 							</item>
 	</channel>
